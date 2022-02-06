@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\obj\Debug\net5.0\ExercicioDecrementoNumerosRepeticao.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\obj\Debug\net5.0\ExercicioDecrementoNumerosRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\obj\Debug\net5.0\ExercicioDecrementoNumerosRepeticao.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\obj\Debug\net5.0\ExercicioDecrementoNumerosRepeticao.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\obj\Debug\net5.0\ExercicioDecrementoNumerosRepeticao.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\bin\Debug\net5.0\ExercicioDecrementoNumerosRepeticao.exe
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\bin\Debug\net5.0\ExercicioDecrementoNumerosRepeticao.deps.json
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\bin\Debug\net5.0\ExercicioDecrementoNumerosRepeticao.runtimeconfig.json
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\bin\Debug\net5.0\ExercicioDecrementoNumerosRepeticao.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\bin\Debug\net5.0\ExercicioDecrementoNumerosRepeticao.dll
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\bin\Debug\net5.0\ref\ExercicioDecrementoNumerosRepeticao.dll
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\bin\Debug\net5.0\ExercicioDecrementoNumerosRepeticao.pdb
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\obj\Debug\net5.0\ExercicioDecrementoNumerosRepeticao.dll
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\obj\Debug\net5.0\ref\ExercicioDecrementoNumerosRepeticao.dll
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\obj\Debug\net5.0\ExercicioDecrementoNumerosRepeticao.pdb
+C:\xampp\htdocs\udemy\ExercicioDecrementoNumerosRepeticao\obj\Debug\net5.0\ExercicioDecrementoNumerosRepeticao.genruntimeconfig.cache
